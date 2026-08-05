@@ -1,4 +1,4 @@
-![Seoryang](img/github-header-banner.png)
+![Seoryang](img/github-header-benner-2.png)
 
 #### Skills
 
@@ -24,14 +24,14 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
 </div>
 
-###
+<!-- ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
 </div>
 
-###
+### -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ibnuIm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
